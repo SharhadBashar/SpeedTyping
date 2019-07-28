@@ -1,0 +1,1 @@
+export default 'WRGN6302';
